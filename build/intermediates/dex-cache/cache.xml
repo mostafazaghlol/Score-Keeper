@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/mostafa/Mostafa/my work space private/android_project/ScoreKeeper/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/media/mostafa/Mostafa/my work space private/android_project/ScoreKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d6c0b9077f246b61c7169c0f2d13d26501cd3c26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/mostafa/Mostafa/my work space private/android_project/ScoreKeeper/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="213b4841c67a4282db7080fe7044f5e152508cce">
+        <dex dex="/media/mostafa/Mostafa/my work space private/android_project/ScoreKeeper/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4daedaed6a10381ad1728c3e7545dfd285a5de0b/classes.dex" />
+    </item>
+
+</items>
